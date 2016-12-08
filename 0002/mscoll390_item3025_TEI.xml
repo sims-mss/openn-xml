@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Text on animal omens</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Written in 6-9 lines per leaf.</note>
+        <note>7 leaves.</note>
+        <note>Significant syllables, words, or phrases highlighted in red throughout; text surrounds 24 highly detailed paintings of various sizes. Paintings are of landscapes with different animals, especially birds, but also lions, donkeys, dogs and other animals.</note>
+        <note>Previously had separate folios and is now bound on left side as a codex with blue European, marbled paper.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>5917883</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5917883</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>The size of a pocket book, this manuscript most likely was carried by the jyotiṣī (astrologer) for consultation. It deals with the auspicious and inauspicious consequences of encountering different birds and animals. The usual term for omen in Sanskrit śakuna means "bird" as well as "omen". Omens have played and continue to play a significant role in people's lives, with many quite attentive to the significance of various animal sounds and movements, especially bird calls. Manuscript is incomplete.</summary>
+            <textLang>In Braj</textLang>
+            <msItem>
+              <title>Text on animal omens</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 11 x 15 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="1r">Illustration, f.1r</decoNote>
+              <decoNote n="1v">Illustration, f. 1v</decoNote>
+              <decoNote n="2r">Illustration, f.2r</decoNote>
+              <decoNote n="2v">Illustration, f.2v</decoNote>
+              <decoNote n="3r">Illustration, f.3r</decoNote>
+              <decoNote n="3v">Illustration, f.3v</decoNote>
+              <decoNote n="4r">Illustration, f.4r</decoNote>
+              <decoNote n="4v">Illustration, f.4v</decoNote>
+              <decoNote n="5r">Illustration, f.5r</decoNote>
+              <decoNote n="5v">Illustration, f.5v</decoNote>
+              <decoNote n="6r">Illustration, f.6r</decoNote>
+              <decoNote n="6v">Illustration, f.6v</decoNote>
+              <decoNote n="7r">Illustration, f.7r</decoNote>
+              <decoNote n="7v">Illustration, f. 7v</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Birdsongs--Symbolic aspects</term>
+          <term>Omens--India</term>
+          <term>Hindu astrology</term>
+          <term>Animals--Symbolic aspects</term>
+          <term>Animals in art</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Miniatures (paintings)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts--India--18th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2538px" url="master/3026_0000.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0000_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2538px" url="master/3026_0001.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0001_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2538px" url="master/3026_0002.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0002_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2538px" url="master/3026_0003.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0003_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="2538px" url="master/3026_0004.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0004_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="2538px" url="master/3026_0005.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0005_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="2538px" url="master/3026_0006.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0006_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="2538px" url="master/3026_0007.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0007_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="2538px" url="master/3026_0008.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0008_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="2538px" url="master/3026_0009.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0009_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="2538px" url="master/3026_0010.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0010_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="2538px" url="master/3026_0011.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0011_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="2538px" url="master/3026_0012.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0012_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="2538px" url="master/3026_0013.tif" width="3579px"/>
+      <graphic height="134px" url="thumb/3026_0013_thumb.jpg" width="190px"/>
+      <graphic height="1276px" url="web/3026_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="5609px" url="master/3026_0014.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/3026_0014_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/3026_0014_web.jpg" width="1444px"/>
+    </surface>
+  </facsimile>
+</TEI>

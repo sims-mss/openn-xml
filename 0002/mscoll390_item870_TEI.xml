@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Brahmopaniṣad</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 10 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; some syllables, words, or phrases highlighted in red throughout.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>6243000</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6243000</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation and is a Hindu philosophical treatise in the style of the late Vedic upaniṣads, but being written in medieval times. Part of what is known as the Yoga upaniṣads and influenced by the Saṃkhyā and Vedānta, as well as Śakta, philosophical traditions. Work expounds on the universal notion of the brahman and its relationship to the self (ātman).</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Brahmopaniṣad</title>
+              <colophon>Colophon: iti ity atharvaṇabrahmopaniṣat samāptaḥ oṃm śāṃtiḥ śāṃtiḥ śāṃtiḥ hari oṃ tat sat // (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 13 x 27 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yoga</term>
+          <term>Self (Philosophy)</term>
+          <term>Ātman</term>
+          <term>Brahman</term>
+          <term>Vedanta</term>
+          <term>Sankhya</term>
+          <term>Shaktism</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3165px" url="master/3035_0000.tif" width="6027px"/>
+      <graphic height="99px" url="thumb/3035_0000_thumb.jpg" width="190px"/>
+      <graphic height="945px" url="web/3035_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5726px" url="master/3035_0001.tif" width="6027px"/>
+      <graphic height="180px" url="thumb/3035_0001_thumb.jpg" width="190px"/>
+      <graphic height="1710px" url="web/3035_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3165px" url="master/3035_0002.tif" width="6027px"/>
+      <graphic height="99px" url="thumb/3035_0002_thumb.jpg" width="190px"/>
+      <graphic height="945px" url="web/3035_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

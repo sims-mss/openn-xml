@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Āśaucatriṃśacchlokī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2016 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 5r); alternate title Triṃśacchlokī, supplied by cataloger.</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>5 leaves foliated 1-5, upper left and lower right verso.</note>
+        <note>Dated śaka 1568 (1646) (f. 5r).</note>
+        <note>Mistakes blacked out; some corrections and additions in margins; vertical margins marked with double black line.</note>
+        <note>Scribe is Jaṭārakṛṣṇa Bhaṭṭa (f. 5r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>6810503</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6810503</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation, study, and recitation and contains 30 verses (ślokas) derived from a work called the Aśaucanirṇaya; it deals with the removal of impurities through ritual and recitation. This work derives from a large text known as the Aśaucanirṇaya or the Ṣaḍaśīti.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Āśaucatriṃśacchlokī</title>
+              <author>Ādityācārya</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Jatārakṛṣṇa Bhaṭṭa</persName>
+              </respStmt>
+              <colophon>Colophon: ity āśaucatriṃśacchlokIsamāptā // (f. 5r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 9 x 23 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Dharma--Early works to 1800</term>
+          <term>Hindu law--Early works to 1800</term>
+          <term>Rites and ceremonies--India--Early works to 1800</term>
+          <term>Purity, Ritual--Hinduism--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--17th century</term>
+          <term>Manuscripts--India--17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2593px" url="master/2227_0000.tif" width="5833px"/>
+      <graphic height="84px" url="thumb/2227_0000_thumb.jpg" width="190px"/>
+      <graphic height="800px" url="web/2227_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="4951px" url="master/2227_0001.tif" width="5833px"/>
+      <graphic height="161px" url="thumb/2227_0001_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/2227_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="4951px" url="master/2227_0002.tif" width="5833px"/>
+      <graphic height="161px" url="thumb/2227_0002_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/2227_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="4951px" url="master/2227_0003.tif" width="5833px"/>
+      <graphic height="161px" url="thumb/2227_0003_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/2227_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v-5r">
+      <graphic height="4951px" url="master/2227_0004.tif" width="5833px"/>
+      <graphic height="161px" url="thumb/2227_0004_thumb.jpg" width="190px"/>
+      <graphic height="1527px" url="web/2227_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="2593px" url="master/2227_0005.tif" width="5833px"/>
+      <graphic height="84px" url="thumb/2227_0005_thumb.jpg" width="190px"/>
+      <graphic height="800px" url="web/2227_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>
