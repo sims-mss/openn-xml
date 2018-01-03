@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Śivarahasya.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 4v).</note>
+        <note>Written in 9-11 lines per leaf.</note>
+        <note>4 leaves foliated 1-4, upper left and lower right verso.</note>
+        <note>Mistakes blacked out; some corrections and additions in margins.</note>
+        <note>Scribe is Sadāśiva, son of Nārāyaṇa (f. 4v).</note>
+        <note>Dated śaka 1766 (1844) (f. 4v).</note>
+        <note>Watermarks of letters, possibly T, E, and L, as well as some design of possibly a figure or architecture.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>6995471</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6995471</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Treatise and description of a rite dedicated to the god Śiva and performed during the Evening of Saturn (Sanidoṣa). Manuscript contains chapter 31 of this larger work.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Śivarahasya.</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Sadāśiva (Son of Nārāyaṇa)</persName>
+              </respStmt>
+              <colophon>Colophon: iti śrīśivarahasye ekādaśāṃśeśanipradoṣamahimānāma ekatriṃśo 'dhyāyaḥ (f. 4v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 33 x 11 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Rites and ceremonies--India</term>
+          <term>Śaivism</term>
+          <term>Siva (Hindu deity)</term>
+          <term>Śani (Hindu deity)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2806px" url="master/4027_0000.tif" width="7591px"/>
+      <graphic height="70px" url="thumb/4027_0000_thumb.jpg" width="190px"/>
+      <graphic height="665px" url="web/4027_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5258px" url="master/4027_0001.tif" width="7591px"/>
+      <graphic height="131px" url="thumb/4027_0001_thumb.jpg" width="190px"/>
+      <graphic height="1246px" url="web/4027_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="5258px" url="master/4027_0002.tif" width="7591px"/>
+      <graphic height="131px" url="thumb/4027_0002_thumb.jpg" width="190px"/>
+      <graphic height="1246px" url="web/4027_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="5258px" url="master/4027_0003.tif" width="7591px"/>
+      <graphic height="131px" url="thumb/4027_0003_thumb.jpg" width="190px"/>
+      <graphic height="1246px" url="web/4027_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="2806px" url="master/4027_0004.tif" width="7591px"/>
+      <graphic height="70px" url="thumb/4027_0004_thumb.jpg" width="190px"/>
+      <graphic height="665px" url="web/4027_0004_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

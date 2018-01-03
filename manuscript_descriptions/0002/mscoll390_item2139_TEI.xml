@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Tattvacintāmaṇi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title abbreviations in margins; alternate title Cintāmaṇi from abbreviations in margins.</note>
+        <note>Written in 8 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left and lower right verso.</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with quadruple red line.</note>
+        <note>Watermarks of a coat of arms with a standing cat with a crown and the phrase To Picard (To in small letters).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>7096924</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7096924</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript used for contemplation and study and is a treatise on logic from the perspective of the Nyāya school of Hindu philosophy. The text represents a small section of the larger work by Gaṅgeśa. Beginning of text only.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Tattvacintāmaṇi</title>
+              <author>Gaṅgeśa, active 13th century</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 11 x 30 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Nyaya</term>
+          <term>Hindu logic</term>
+          <term>Logic--India</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2168px" url="master/4000_0000.tif" width="5305px"/>
+      <graphic height="77px" url="thumb/4000_0000_thumb.jpg" width="190px"/>
+      <graphic height="735px" url="web/4000_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="3831px" url="master/4000_0001.tif" width="5305px"/>
+      <graphic height="137px" url="thumb/4000_0001_thumb.jpg" width="190px"/>
+      <graphic height="1299px" url="web/4000_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2168px" url="master/4000_0002.tif" width="5305px"/>
+      <graphic height="77px" url="thumb/4000_0002_thumb.jpg" width="190px"/>
+      <graphic height="735px" url="web/4000_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Vidvanmodataraṅginī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library, Ms. Coll. 390: Vidvanmodataraṅginī are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 39v).</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>40 leaves foliated 1-39, [40], upper left and lower right verso.</note>
+        <note>Dated saṃvat 1833 śāke 1698 mitīvaiśākhakṛṣṇa 10 śanau (Monday, May 13, 1776) (f. 39v).</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins along with extensive notes in a second scribal hand; significant syllables, words, or phrases highlighted in red throughout; vertical margins marked with double red line.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>9959625593503681</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5962559</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript use for consultation and study and is a collection of religious and philosophical discussions as presented through the voice of different authors of the past. Text referred to as, Fountain of pleasure to the learned.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Vidvanmodataraṅginī</title>
+              <author>Cirañjīva Bhaṭṭācārya, active 18th century</author>
+              <colophon>Colophon: iti śrī cīraṃjīvabhaṭṭācāryyakṛtavidvanmodataraṃgiṇyām aṣṭamaḥ staraṃgaḥ // śrīrastu // saṃvat 1833 śāke 1698 mitīvaiśākhakṛṣṇa 10 śanau // śrī // - adṛṣṭabhāvān mativibhramāccayadyarthahīnaṃ likhitaṃ mamātra // tat sarvam āryyai pariśodhanīyaṃ kopaṃnakurpādihalekhakasya // likhitaṃ gālaṇekaro 'panākaśrīkṛṣṇabhaṭṭātmajaprabhākeṇa // madhupuriyāṃ // śrīrastu // (f. 39v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 10 x 25 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu philosophy</term>
+          <term>Indian philosophy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Compendiums</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts--India--18th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3244px" url="master/5753_0000.tif" width="6252px"/>
+      <graphic height="98px" url="thumb/5753_0000_thumb.jpg" width="190px"/>
+      <graphic height="933px" url="web/5753_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5428px" url="master/5753_0001.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0001_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="5428px" url="master/5753_0002.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0002_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="5428px" url="master/5753_0003.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0003_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v-5r">
+      <graphic height="5428px" url="master/5753_0004.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0004_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v-6r">
+      <graphic height="5428px" url="master/5753_0005.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0005_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v-7r">
+      <graphic height="5428px" url="master/5753_0006.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0006_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v-8r">
+      <graphic height="5428px" url="master/5753_0007.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0007_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8v-9r">
+      <graphic height="5428px" url="master/5753_0008.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0008_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="9v-10r">
+      <graphic height="5428px" url="master/5753_0009.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0009_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="10v-11r">
+      <graphic height="5428px" url="master/5753_0010.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0010_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="11v-12r">
+      <graphic height="5428px" url="master/5753_0011.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0011_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="12v-13r">
+      <graphic height="5428px" url="master/5753_0012.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0012_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="13v-14r">
+      <graphic height="5428px" url="master/5753_0013.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0013_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="14v-15r">
+      <graphic height="5428px" url="master/5753_0014.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0014_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="15v-16r">
+      <graphic height="5428px" url="master/5753_0015.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0015_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0015_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="16v-17r">
+      <graphic height="5428px" url="master/5753_0016.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0016_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0016_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="17v-18r">
+      <graphic height="5428px" url="master/5753_0017.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0017_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0017_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="18v-19r">
+      <graphic height="5428px" url="master/5753_0018.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0018_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0018_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="19v-20r">
+      <graphic height="5428px" url="master/5753_0019.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0019_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0019_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="20v-21r">
+      <graphic height="5428px" url="master/5753_0020.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0020_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0020_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="21v-22r">
+      <graphic height="5428px" url="master/5753_0021.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0021_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0021_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="22v-23r">
+      <graphic height="5428px" url="master/5753_0022.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0022_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0022_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="23v-24r">
+      <graphic height="5428px" url="master/5753_0023.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0023_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0023_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="24v-25r">
+      <graphic height="5428px" url="master/5753_0024.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0024_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0024_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="25v-26r">
+      <graphic height="5428px" url="master/5753_0025.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0025_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0025_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="26v-27r">
+      <graphic height="5428px" url="master/5753_0026.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0026_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0026_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="27v-28r">
+      <graphic height="5428px" url="master/5753_0027.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0027_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0027_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="28v-29r">
+      <graphic height="5428px" url="master/5753_0028.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0028_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0028_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="29v-30r">
+      <graphic height="5428px" url="master/5753_0029.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0029_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0029_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="30v-31r">
+      <graphic height="5428px" url="master/5753_0030.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0030_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0030_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="31v-32r">
+      <graphic height="5428px" url="master/5753_0031.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0031_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0031_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="32v-33r">
+      <graphic height="5428px" url="master/5753_0032.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0032_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0032_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="33v-34r">
+      <graphic height="5428px" url="master/5753_0033.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0033_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0033_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="34v-35r">
+      <graphic height="5428px" url="master/5753_0034.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0034_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0034_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="35v-36r">
+      <graphic height="5428px" url="master/5753_0035.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0035_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0035_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="36v-37r">
+      <graphic height="5428px" url="master/5753_0036.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0036_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0036_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="37v-38r">
+      <graphic height="5428px" url="master/5753_0037.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0037_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0037_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="38v-39r">
+      <graphic height="5428px" url="master/5753_0038.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0038_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0038_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="39v-40r">
+      <graphic height="5428px" url="master/5753_0039.tif" width="6252px"/>
+      <graphic height="164px" url="thumb/5753_0039_thumb.jpg" width="190px"/>
+      <graphic height="1562px" url="web/5753_0039_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="40v">
+      <graphic height="3244px" url="master/5753_0040.tif" width="6252px"/>
+      <graphic height="98px" url="thumb/5753_0040_thumb.jpg" width="190px"/>
+      <graphic height="933px" url="web/5753_0040_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

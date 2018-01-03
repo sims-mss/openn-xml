@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Śītalāṣṭakastotra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 2v).</note>
+        <note>Written in 11-13 lines per leaf.</note>
+        <note>2 leaves foliated 1-2, upper left verso.</note>
+        <note>Mistakes blacked or crossed out; paper treat with yellow pigment.</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>5837504</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5837504</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Small manuscript for private use, recitation, and prayer, dedicated to praising the goddess of smallpox Śītalā (the cooling one). Contains 16 verses of text.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Śītalāṣṭakastotra</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Gāḍagila, Janārdanapanta Bhatu</persName>
+              </respStmt>
+              <colophon>Colophon: iti śrīskaṃdapurāṇe skaṃdeśvarasaṃvāde śītalāṣṭakastotraṃ saṃpūrṇaṃ // janārdanapaṃtabhatugāḍagilasyedaṃ pustakaṃ (f. 2v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 10 x 16 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Janārdanapanta Bhatu Gāḍagila (f. 2v); possibly the same as Janārdana Koṇḍadeva Gāḍagila, former owner of more than 20 other manuscripts in Ms. Coll. 390, University of Pennsylvania.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hindu goddesses</term>
+          <term>Smallpox--Religious aspects</term>
+          <term>Diseases--Religious aspects</term>
+          <term>Hindu hymns, Sanskrit</term>
+          <term>Devotional literature, Sanskrit</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Poems</term>
+          <term>Prayers</term>
+          <term>Hymns</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2274px" url="master/3763_0000.tif" width="3624px"/>
+      <graphic height="119px" url="thumb/3763_0000_thumb.jpg" width="190px"/>
+      <graphic height="1129px" url="web/3763_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="4359px" url="master/3763_0001.tif" width="3624px"/>
+      <graphic height="190px" url="thumb/3763_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/3763_0001_web.jpg" width="1496px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2274px" url="master/3763_0002.tif" width="3624px"/>
+      <graphic height="119px" url="thumb/3763_0002_thumb.jpg" width="190px"/>
+      <graphic height="1129px" url="web/3763_0002_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

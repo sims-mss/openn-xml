@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Sthālīpākaprayoga</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from title incipit (f. 1v); alternate title, Dvitīyapūrṇāhutiprakāra from colophon (10r).</note>
+        <note>Written in 9-11 lines per leaf.</note>
+        <note>10 leaves foliated 1-10, upper left and lower right verso.</note>
+        <note>Scribe is Govindarāma son of Ātmarāma Bhaṭṭa (10r) who lived in the city of Varāṇasī.</note>
+        <note>Dated saṃvat 1820 (1763) (f. 10r).</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout; accents in red through first part of manuscript (f. 1-2).</note>
+        <note>Non-Latin script record.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>5860898</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5860898</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>First part of manuscript is a manual outlining the rules and instructions for a sacrificial patron (yajnamāna) on how to make an oblation of boiled rice during a fire sacrifice. The second part is a short text at the end (Dvitīyapūrṇāhutiprakāra) employed to complete the offering.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Sthālīpākaprayoga</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Govindarāma, son of Ātmarāma Bhaṭṭa</persName>
+              </respStmt>
+              <colophon>Colophon: iti dvitīyapūrṇāhatiprakāraḥ // saṃvat 1820 śrāvaṇe māse kṛṣṇapakṣe amāvāsyāyāṃ tithau bhaumavāsare tad dine kāśyāṃ likhitaṃ paṭavarddyanopanāmaka ātmārāmbhaṭṭātmajagoviṃdarāmeṇa svārthaṃ parārthaṃ ca // śrīśubham astu // śrīrāma // śrīkṛṣṇaśrī // (f. 10r).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 10 x 24 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Votive offerings--India</term>
+          <term>Rites and ceremonies--India</term>
+          <term>Sacrifice--Hinduism</term>
+          <term>Rice--India--Religious aspects</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts--India--18th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2474px" url="master/3579_0000.tif" width="5390px"/>
+      <graphic height="87px" url="thumb/3579_0000_thumb.jpg" width="190px"/>
+      <graphic height="826px" url="web/3579_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="5057px" url="master/3579_0001.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0001_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="5057px" url="master/3579_0002.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0002_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="5057px" url="master/3579_0003.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0003_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v-5r">
+      <graphic height="5057px" url="master/3579_0004.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0004_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v-6r">
+      <graphic height="5057px" url="master/3579_0005.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0005_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v-7r">
+      <graphic height="5057px" url="master/3579_0006.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0006_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v-8r">
+      <graphic height="5057px" url="master/3579_0007.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0007_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8v-9r">
+      <graphic height="5057px" url="master/3579_0008.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0008_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="9v-10r">
+      <graphic height="5057px" url="master/3579_0009.tif" width="5390px"/>
+      <graphic height="178px" url="thumb/3579_0009_thumb.jpg" width="190px"/>
+      <graphic height="1688px" url="web/3579_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="2474px" url="master/3579_0010.tif" width="5390px"/>
+      <graphic height="87px" url="thumb/3579_0010_thumb.jpg" width="190px"/>
+      <graphic height="826px" url="web/3579_0010_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

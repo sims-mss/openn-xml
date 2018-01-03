@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Siddhāntamuktāvalī</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 61v); alternate title Muktāvalī from abbreviations in margins.</note>
+        <note>Written in 11 lines per leaf.</note>
+        <note>38 leaves foliated 24-61, upper left and lower right verso.</note>
+        <note>Scribe is Vyaṅkaṭeśa Sahasrabuddhi (f. 61v).</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; some significant syllables, words, or phrases highlighted in red throughout.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>7090040</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/7090040</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation and study and is a treatise on logic and parts of speech from the perspective of the Vaiśeṣika branch of the Nyāya school of Hindu philosophy. Manuscript is missing the beginning of the text.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Siddhāntamuktāvalī</title>
+              <author>Viśvanātha Nyāyapañcānana Bhaṭṭācārya</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Sahasrabuddhi, Vyaṅkaṭeśa</persName>
+              </respStmt>
+              <colophon>Colophon: iti śrīyutamahāmahopādhyāya naiyāpikaśiromaṇiviśvanāthapaṃcānanabhaṭṭācāryaviracitā siddhāṃtamuktāvalī samāptā // (f. 61v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 12 x 25 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Nyaya</term>
+          <term>Vaiśeṣika</term>
+          <term>Hindu logic</term>
+          <term>Logic--India</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="24r =1r">
+      <graphic height="2995px" url="master/4063_0000.tif" width="6212px"/>
+      <graphic height="91px" url="thumb/4063_0000_thumb.jpg" width="190px"/>
+      <graphic height="867px" url="web/4063_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="24v =1v-25r =2r">
+      <graphic height="5589px" url="master/4063_0001.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0001_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="25v =2v-26r =3r">
+      <graphic height="5589px" url="master/4063_0002.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0002_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="26v =3v-27r =4r">
+      <graphic height="5589px" url="master/4063_0003.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0003_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="27v =4v-28r =5r">
+      <graphic height="5589px" url="master/4063_0004.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0004_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="28v =5v-29r =6r">
+      <graphic height="5589px" url="master/4063_0005.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0005_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="29v =6v-30r =7r">
+      <graphic height="5589px" url="master/4063_0006.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0006_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="30v =7v-31r =8r">
+      <graphic height="5589px" url="master/4063_0007.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0007_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="31v =8v-32r =9r">
+      <graphic height="5589px" url="master/4063_0008.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0008_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="32v =9v-33r =10r">
+      <graphic height="5589px" url="master/4063_0009.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0009_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="33v =10v-34r =11r">
+      <graphic height="5589px" url="master/4063_0010.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0010_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="34v =11v-35r =12r">
+      <graphic height="5589px" url="master/4063_0011.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0011_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="35v =12v-36r =13r">
+      <graphic height="5589px" url="master/4063_0012.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0012_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="36v =13v-37r =14r">
+      <graphic height="5589px" url="master/4063_0013.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0013_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="37v =14v-38r =15r">
+      <graphic height="5589px" url="master/4063_0014.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0014_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="38v =15v-39r =16r">
+      <graphic height="5589px" url="master/4063_0015.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0015_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0015_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="39v =16v-40r =17r">
+      <graphic height="5589px" url="master/4063_0016.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0016_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0016_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="40v =17v-41r =18r">
+      <graphic height="5589px" url="master/4063_0017.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0017_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0017_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="41v =18v-42r =19r">
+      <graphic height="5589px" url="master/4063_0018.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0018_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0018_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="42v =19v-43r =20r">
+      <graphic height="5589px" url="master/4063_0019.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0019_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0019_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="43v =20v-44r =21r">
+      <graphic height="5589px" url="master/4063_0020.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0020_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0020_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="44v =21v-45r =22r">
+      <graphic height="5589px" url="master/4063_0021.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0021_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0021_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="45v =22v-46r =23r">
+      <graphic height="5589px" url="master/4063_0022.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0022_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0022_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="46v =23v-47r =24r">
+      <graphic height="5589px" url="master/4063_0023.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0023_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0023_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="47v =24v-48r =25r">
+      <graphic height="5589px" url="master/4063_0024.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0024_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0024_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="48v =25v-49r =26r">
+      <graphic height="5589px" url="master/4063_0025.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0025_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0025_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="49v =26v-50r =27r">
+      <graphic height="5589px" url="master/4063_0026.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0026_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0026_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="50v =27v-51r =28r">
+      <graphic height="5589px" url="master/4063_0027.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0027_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0027_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="51v =28v-52r =29r">
+      <graphic height="5589px" url="master/4063_0028.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0028_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0028_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="52v =29v-53r =30r">
+      <graphic height="5589px" url="master/4063_0029.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0029_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0029_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="53v =30v-54r =31r">
+      <graphic height="5589px" url="master/4063_0030.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0030_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0030_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="54v =31v-55r =32r">
+      <graphic height="5589px" url="master/4063_0031.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0031_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0031_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="55v =32v-56r =33r">
+      <graphic height="5589px" url="master/4063_0032.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0032_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0032_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="56v =33v-57r =34r">
+      <graphic height="5589px" url="master/4063_0033.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0033_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0033_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="57v =34v-58r =35r">
+      <graphic height="5589px" url="master/4063_0034.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0034_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0034_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="58v =35v-59r =36r">
+      <graphic height="5589px" url="master/4063_0035.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0035_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0035_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="59v =36v-60r =37r">
+      <graphic height="5589px" url="master/4063_0036.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0036_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0036_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="60v =37v-61r =38r">
+      <graphic height="5589px" url="master/4063_0037.tif" width="6212px"/>
+      <graphic height="170px" url="thumb/4063_0037_thumb.jpg" width="190px"/>
+      <graphic height="1619px" url="web/4063_0037_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="61v =38v">
+      <graphic height="2995px" url="master/4063_0038.tif" width="6212px"/>
+      <graphic height="91px" url="thumb/4063_0038_thumb.jpg" width="190px"/>
+      <graphic height="867px" url="web/4063_0038_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

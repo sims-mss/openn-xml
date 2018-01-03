@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Sinhalese protective charm yantras</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>8 leaves.</note>
+        <note>Text and diagrams engraved in palm leaf and rubbed with black ink.</note>
+        <note>Palm leaf with hole in center for string, which is missing.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>5910363</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5910363</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is a compendium of cure-amulets meant to be carried about or worn as protective charms. Contains diagrams (yantras) of cosmologies, the human body, deities, and animals along with various mantras to be recited during the performance of healing rites and to ward of danger. Such diagrammatic manuscripts are found throughout South Asia on palm leaves or sheets of copper.</summary>
+            <textLang mainLang="sin" otherLangs="tam mal">In Sinhalese, Jaffna Tamil, and Malayalam</textLang>
+            <msItem>
+              <title>Sinhalese protective charm yantras</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>palm leaf</p>
+                </support>
+                <extent>1 7 x 17 cm</extent>
+              </supportDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote n="1v-2r">Illustrations and charts, f. [1v] and f. [2r]</decoNote>
+              <decoNote n="2v-3r">Illustration and table, f. [2v] and f. [3r]</decoNote>
+              <decoNote n="3v-4r">Diagrams and charts, f. [3v] and f. [4r]</decoNote>
+              <decoNote n="4v-5r">Illustrations, f. [4v] and f. [5r]</decoNote>
+              <decoNote n="5v-6r">Illustrations, f. [5v] and f. [6r]</decoNote>
+              <decoNote n="6v-7r">Illustrations, f. [6v] and f. [7r]</decoNote>
+              <decoNote n="7v-8r">Diagrams, f. [7v] and f. [8r]</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Yantras</term>
+          <term>Mantras</term>
+          <term>Healing--Religious aspects</term>
+          <term>Healing--India</term>
+          <term>Amulets (Hinduism)</term>
+          <term>Rites and ceremonies--India</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuals (instructional materials)</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Sanskrit--18th century</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--18th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="1789px" url="master/3436_0000.tif" width="3831px"/>
+      <graphic height="88px" url="thumb/3436_0000_thumb.jpg" width="190px"/>
+      <graphic height="840px" url="web/3436_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="3335px" url="master/3436_0001.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0001_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="3335px" url="master/3436_0002.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0002_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="3335px" url="master/3436_0003.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0003_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v-5r">
+      <graphic height="3335px" url="master/3436_0004.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0004_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v-6r">
+      <graphic height="3335px" url="master/3436_0005.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0005_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v-7r">
+      <graphic height="3335px" url="master/3436_0006.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0006_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v-8r">
+      <graphic height="3335px" url="master/3436_0007.tif" width="3831px"/>
+      <graphic height="165px" url="thumb/3436_0007_thumb.jpg" width="190px"/>
+      <graphic height="1566px" url="web/3436_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="1789px" url="master/3436_0008.tif" width="3831px"/>
+      <graphic height="88px" url="thumb/3436_0008_thumb.jpg" width="190px"/>
+      <graphic height="840px" url="web/3436_0008_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

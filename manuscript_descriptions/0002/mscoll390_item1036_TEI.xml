@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 390: Citradīpa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2017 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title from colophon (f. 24r); commentary title Tātparyabodhinī supplied by cataloger; alternate commentary title Pañcadaśīprakāśikā supplied by cataloger.</note>
+        <note>Written in 8-9 lines per leaf.</note>
+        <note>24 leaves foliated 1-24, upper left verso.</note>
+        <note>Manuscript was formerly part of a larger manuscript along with Ms. Coll. 390, Item 1034, Item 1035, Item 1037, Item 1038, Item 1039, Item 1040, Item 1041, Item 1042, Item 1043, Item 1044, and Item 1045.</note>
+        <note>Dated śaka 1766 (1844) (Ms. Coll. 390, Item 1045, f. 3r).</note>
+        <note>Scribe is Nārāyaṇa (Ms. Coll. 390, Item 1035, f. 3r).</note>
+        <note>Mistakes covered over in yellow or blacked out; some corrections and additions in margins; significant syllables, words, or phrases highlighted in red throughout.</note>
+        <note>Watermarks on all folios, including a crest of Britannia, a horse, various parts of words and letters.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 390</idno>
+            <altIdentifier type="bibid">
+              <idno>6317226</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6317226</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript is used for contemplation and study and is a treatise on Hindu philosophy whose title is translated as Light on painting; compares the creation of the universe with that of a painting, written from the perspective of the Advaita (non-dualism) Vedānta school of philosophy; work contains part of an extensive commentary called the Tātparyabodhinī by Rāmakṛṣṇa running parallel, above and below, the main root text.</summary>
+            <textLang>In Sanskrit</textLang>
+            <msItem>
+              <title>Citradīpa</title>
+              <author>Mādhava, -1386</author>
+              <author>Rāmakr̥ṣṇa</author>
+              <author>Rāmakr̥ṣṇa</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Nārāyaṇa</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Raṅganātha Marāṭhe (Son of Mayūreśvara)</persName>
+              </respStmt>
+              <colophon>Colophon: iti śrīmatparamahaṃsaparivrājakācāryaśrībhAratItIrthavidyāraṇyaśrīcaraṇaśiṣyeṇarāmakṛṣṇākhyena ciduṣāviracitaṃ tātparyabo[?]dhinīnāmakaṃ citradīpākhyānaṃ samāptaṃ (f. 24v).</colophon>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 14 x 32 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Raṅganātha Marāṭhe, son of Mayūreśvara (colophon, Ms. Coll. 390, Item 1045, f. 3r).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Art and philosophy--India</term>
+          <term>Advaita</term>
+          <term>Vedanta</term>
+          <term>Hindu philosophy</term>
+          <term>Philosophy, Indic</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Treatises</term>
+          <term>Commentaries</term>
+          <term>Watermarks</term>
+          <term>Manuscripts, Sanskrit--19th century</term>
+          <term>Manuscripts--India--19th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3741px" url="master/3393_0000.tif" width="7501px"/>
+      <graphic height="94px" url="thumb/3393_0000_thumb.jpg" width="190px"/>
+      <graphic height="897px" url="web/3393_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v-2r">
+      <graphic height="6611px" url="master/3393_0001.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0001_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v-3r">
+      <graphic height="6602px" url="master/3393_0002.tif" width="7491px"/>
+      <graphic height="167px" url="thumb/3393_0002_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v-4r">
+      <graphic height="6611px" url="master/3393_0003.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0003_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v-5r">
+      <graphic height="6611px" url="master/3393_0004.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0004_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v-6r">
+      <graphic height="6611px" url="master/3393_0005.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0005_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v-7r">
+      <graphic height="6611px" url="master/3393_0006.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0006_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v-8r">
+      <graphic height="6611px" url="master/3393_0007.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0007_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="8v-9r">
+      <graphic height="6611px" url="master/3393_0008.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0008_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="9v-10r">
+      <graphic height="6611px" url="master/3393_0009.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0009_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="10v-11r">
+      <graphic height="6611px" url="master/3393_0010.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0010_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="11v-12r">
+      <graphic height="6611px" url="master/3393_0011.tif" width="7501px"/>
+      <graphic height="167px" url="thumb/3393_0011_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0011_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="12v-13r">
+      <graphic height="6610px" url="master/3393_0012.tif" width="7500px"/>
+      <graphic height="167px" url="thumb/3393_0012_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="13v-14r">
+      <graphic height="6610px" url="master/3393_0013.tif" width="7500px"/>
+      <graphic height="167px" url="thumb/3393_0013_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0013_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="14v-15r">
+      <graphic height="6559px" url="master/3393_0014.tif" width="7442px"/>
+      <graphic height="167px" url="thumb/3393_0014_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="15v-16r">
+      <graphic height="6559px" url="master/3393_0015.tif" width="7442px"/>
+      <graphic height="167px" url="thumb/3393_0015_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0015_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="16v-17r">
+      <graphic height="6559px" url="master/3393_0016.tif" width="7442px"/>
+      <graphic height="167px" url="thumb/3393_0016_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0016_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="17v-18r">
+      <graphic height="6559px" url="master/3393_0017.tif" width="7442px"/>
+      <graphic height="167px" url="thumb/3393_0017_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0017_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="18v-19r">
+      <graphic height="6559px" url="master/3393_0018.tif" width="7442px"/>
+      <graphic height="167px" url="thumb/3393_0018_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0018_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="19v-20r">
+      <graphic height="6547px" url="master/3393_0019.tif" width="7429px"/>
+      <graphic height="167px" url="thumb/3393_0019_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0019_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="20v-21r">
+      <graphic height="6549px" url="master/3393_0020.tif" width="7430px"/>
+      <graphic height="167px" url="thumb/3393_0020_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0020_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="21v-22r">
+      <graphic height="6549px" url="master/3393_0021.tif" width="7430px"/>
+      <graphic height="167px" url="thumb/3393_0021_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0021_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="22v-23r">
+      <graphic height="6549px" url="master/3393_0022.tif" width="7430px"/>
+      <graphic height="167px" url="thumb/3393_0022_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0022_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="23v-24r">
+      <graphic height="6549px" url="master/3393_0023.tif" width="7430px"/>
+      <graphic height="167px" url="thumb/3393_0023_thumb.jpg" width="190px"/>
+      <graphic height="1586px" url="web/3393_0023_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="3741px" url="master/3393_0024.tif" width="7501px"/>
+      <graphic height="94px" url="thumb/3393_0024_thumb.jpg" width="190px"/>
+      <graphic height="897px" url="web/3393_0024_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>
